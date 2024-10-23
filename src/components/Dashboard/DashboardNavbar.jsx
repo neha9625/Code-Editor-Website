@@ -10,7 +10,7 @@ const Navbar = () => {
           <a href="/Code-Editor" className="text-lg hover:text-purple-400">
             Code Editor
           </a>
-          <a href="/dash" className="text-lg hover:text-purple-400">
+          <a href="/Code-Editor-dir" className="text-lg hover:text-purple-400">
             Code Sand Box
           </a>
         </div>
